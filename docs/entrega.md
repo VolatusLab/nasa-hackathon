@@ -1,0 +1,186 @@
+# Entrega
+
+O que a submissão exige, o que já está pronto e os dois registros que alimentam a página de
+submissão: fontes de dados e uso de IA.
+
+## Fontes
+
+Páginas oficiais da edição 2026, lidas em 14 e 15/11/2026:
+
+- Guia de submissão (13/11/2026): <https://www.spaceappschallenge.org/resources/project-submission-guide/>
+- Guia de julgamento e prêmios (13/11/2026): <https://www.spaceappschallenge.org/resources/judging-awards-guide>
+- Termos e condições do participante: <https://www.spaceappschallenge.org/legal/>
+- Perguntas frequentes: <https://www.spaceappschallenge.org/resources/participant-faqs/>
+
+Não lidos: o guia de formação de times (que as perguntas frequentes citam para menores de 18
+anos) e a política de privacidade.
+
+## Datas
+
+| Item | Quando |
+|---|---|
+| Abertura da submissão | sábado, 14/11/2026, 9h00, no horário do evento local |
+| **Prazo de submissão** | **domingo, 15/11/2026, 23h59, no horário do evento local** |
+| Julgamento e premiação locais em Ceres-GO | `[VERIFICAR]` com a organização local (pode ter horário próprio) |
+| Anúncio dos indicados globais (Global Nominees) | 03/12/2026 |
+| Anúncio dos finalistas globais e menções honrosas | 17/12/2026 |
+| Anúncio dos vencedores globais | 26/01/2027 |
+
+Projeto salvo ou enviado depois do prazo não é julgado. Dá para editar e reenviar quantas vezes
+quiser até o prazo; vale a última versão salva. Quem submete recebe certificado de participação.
+
+## Requisitos para ser julgado
+
+A situação do desafio fica em [`desafio.md`](desafio.md); as decisões em aberto, em
+[`pendencias.md`](pendencias.md).
+
+| Requisito | Situação |
+|---|---|
+| Responder a um dos desafios oficiais | ver [`desafio.md`](desafio.md) |
+| Todos os integrantes, inclusive o dono do time, inscritos no Space Apps, no **mesmo evento local**, fora da lista de espera e visíveis na aba "Members" do time | `[VERIFICAR]` |
+| Time com no máximo 6 pessoas; não entra integrante novo depois do prazo. Cada pessoa em um só time; cada time em um só desafio | atendido (5) |
+| Todos os campos obrigatórios da página do projeto preenchidos (sem isso o botão de submeter não funciona) | pendente |
+| Todo o conteúdo da página e dos materiais ligados **em inglês** | pendente |
+| Demo: slides (até 7, contando título e introdução) **ou** vídeo (até 30 segundos). Passou do limite, fica fora do julgamento global | pendente |
+| Links da demo e do projeto final **públicos**, sem senha, permissão ou cadastro | pendente: o link do projeto apontará para a versão de entrega em inglês ([ADR 0002](adr/0002-documentacao-em-pt-br-e-entrega-em-ingles.md)) |
+| Usar ao menos um dado ou recurso da NASA (condição para prêmio global) | pendente |
+| Sem **nome reconhecível, voz, imagem, vídeo ou outra representação de menor de 18 anos** em nada do que for submetido | **há integrante menor de 18 anos**: o nome, a voz e a imagem dele ficam fora da página, da demo e do projeto |
+| Menor de 18 anos inscrito por pai, mãe ou responsável legal e acompanhado por ele durante todo o evento; o evento local pode ter exigências próprias | `[VERIFICAR]` com o grupo e com a organização local |
+| Nenhum integrante participa por vínculo com a China ou com entidade de propriedade chinesa, inclusive universidades (o critério é vínculo institucional, não nacionalidade) | `[VERIFICAR]` |
+| Marcar as duas caixas e clicar em "Submit for Judging" | pendente |
+
+As duas caixas da submissão:
+
+1. **Leitura e aceite:** declara que leu e entendeu o guia de submissão e aceita os termos e
+   condições e a política de privacidade. Quem marca precisa ter lido.
+2. **Trabalho original:** declara que o projeto é trabalho original do time, que todo recurso
+   externo usado (código, texto, imagem, mesmo aberto ou gratuito) está listado no campo de
+   referências, e que nenhum material com direito autoral foi usado sem permissão.
+
+Quem está em lista de espera pede aceite ao líder local; sem resposta, o time inteiro precisa
+mudar para um evento local com vaga.
+
+## O que os termos exigem do conteúdo
+
+- **Licença do conteúdo original:** fica disponível sem restrição ou sob licença de código
+  aberto reconhecida pela Open Source Initiative (OSI). Se o time não indicar uma licença, a
+  NASA distribui o conteúdo sob **Apache 2.0**. Tudo o que é submetido fica disponível para
+  outros baixarem e usarem. O grupo adotou a Apache 2.0 (`LICENSE`,
+  [ADR 0003](adr/0003-licenca-apache-2-0.md)).
+- **Material de terceiros** (dado ou código que não seja da NASA nem de agência parceira):
+  precisa ser público e sem restrição, ou ter licença OSI. As licenças desse material têm de
+  constar na documentação submetida; sem isso a NASA não aceita nem publica a solução.
+- **Toda fonte é citada**, mesmo aberta ou gratuita. Fonte não citada pode levar à remoção do
+  material e à perda de indicação ou prêmio.
+- **Não entra na submissão:** dado pessoal identificável (data de nascimento, endereço,
+  telefone), material que promova produto ou serviço comercial, informação sujeita a controle
+  de exportação dos Estados Unidos.
+- **Uso de nome e imagem:** submeter autoriza a NASA a usar nome, local de residência, foto e
+  imagem dos participantes na divulgação do evento. Quem aparece em vídeo precisa ter dado
+  consentimento por escrito, e o time deve conseguir comprová-lo.
+- **Menor de 18 anos:** além do que está na tabela, as perguntas frequentes dizem que o menor
+  não deve usar foto própria no avatar nem na página do time. O guia de submissão pede os nomes
+  dos integrantes nos slides, e os termos vetam nome reconhecível de menor. Como há integrante
+  menor no grupo, é preciso perguntar à organização local como listá-lo `[VERIFICAR]`.
+
+## Campos da página do projeto
+
+Acesso: ícone do perfil → "My Team" → aba "Project" → "Edit". Salve com frequência ("Save
+Progress"). O que é salvo fica visível só para o time até a submissão.
+
+Há uma trava de edição ("Lock") para avisar que alguém está editando, mas outro integrante
+consegue removê-la e sobrescrever o que não foi publicado. Combinem quem edita.
+
+| Campo | O que pede |
+|---|---|
+| Project Name | nome do projeto |
+| High-Level Project Summary | o que foi feito, como responde ao desafio, por que importa |
+| Link to Project Demo | link público para os slides ou o vídeo |
+| Link to Final Project | link público para o projeto (site, repositório, pasta na nuvem) |
+| Detailed Project Description | o que faz, como funciona, benefícios, objetivos, ferramentas e linguagens usadas |
+| Use of Super Intelligence (SI) | se houve uso de IA e como (ver abaixo) |
+| NASA Data | quais dados e recursos da NASA foram usados, com detalhe |
+| Space Agency Partner Data and Other References | todos os dados, recursos e ferramentas usados, inclusive código, texto e imagem de terceiros |
+
+A página aceita imagens (JPG, PNG, GIF, até 10 MB). Vídeo e documento entram só por link.
+Teste cada link em janela anônima antes de submeter.
+
+**A maior parte da avaliação vem da página do projeto.** A demo conta, principalmente para o
+critério "Apresentação".
+
+Se o projeto final for um site novo, o guia recomenda (sem exigir) pedir a classificação do
+site no FortiGuard Web Filter, para reduzir o risco de os jurados não conseguirem abri-lo. O
+passo a passo está no guia de submissão.
+
+## Demo
+
+- **Vídeo, até 30 segundos.** Pode ser falado em português, desde que tenha legenda em inglês.
+  Roteiro sugerido pelo guia: apresentação do time (0:00), desafio e motivação (0:02), nome e
+  chamada do projeto (0:05), como funciona e como os dados abertos tornaram a solução possível
+  (0:10), visão de futuro (0:20 a 0:30).
+- **Slides, até 7**, em inglês. Precisam trazer o nome do time, os nomes dos integrantes e o
+  desafio escolhido, além de imagem do projeto, a experiência do usuário e como os dados da NASA
+  e de agências parceiras tornam a solução possível.
+- Hospedagem externa (YouTube, Google Drive, GitHub etc.), com link público.
+- O guia recomenda definir cedo o formato e indicar um integrante para conduzir a demo.
+
+## Uso de IA
+
+O guia de 2026 chama de "Super Intelligence (SI)" o que aqui se chama de IA (aprendizado de
+máquina, chatbots, geração de imagem, modelos de linguagem).
+
+- O uso é permitido como ferramenta para acelerar o trabalho.
+- O guia diz que a IA **não deve ser usada para conceber a ideia** de como resolver o desafio.
+- Conteúdo gerado não pode usar nem alterar marcas da NASA (logotipos, bandeiras,
+  identificadores de missão).
+- É obrigatório indicar onde e como a IA foi usada:
+  - imagem e vídeo: marca d'água visível;
+  - áudio: aviso no texto descritivo e nos metadados;
+  - código e dados: aviso no texto descritivo e nos metadados.
+- A resposta ao campo de IA não é vista pelos jurados, mas as indicações dentro do projeto são.
+
+## Critérios de julgamento
+
+Nota de 1 a 5 em cada critério, em todas as fases.
+
+| Critério | O que os jurados olham |
+|---|---|
+| Impacto | o tamanho do problema atacado e quantas pessoas a solução ajuda ou inspira |
+| Criatividade | originalidade: conceito novo ou melhoria relevante sobre ideias existentes |
+| Validade | base científica, viabilidade técnica, o quanto está desenvolvida e a facilidade de uso |
+| Relevância | o quanto responde ao desafio e usa dado da NASA como parte central, não como enfeite |
+| Apresentação | clareza e narrativa ao comunicar o desafio, a solução e a importância; vale a demo e o projeto inteiro |
+
+O guia pede a mesma atenção ao quinto critério que aos outros quatro, e recomenda reservar tempo
+e gente para o pitch.
+
+## Registro de fontes de dados
+
+Preencha no mesmo pull request que passa a usar o dado. Alimenta os campos "NASA Data" e
+"Space Agency Partner Data and Other References". A coluna de licença é obrigatória para todo
+material que não seja da NASA nem de agência parceira.
+
+| Dado ou recurso | Agência ou origem | Link | Licença | Acessado em | Para que usamos |
+|---|---|---|---|---|---|
+| | | | | | |
+
+Dado de agência parceira é incentivado, não exigido. As parceiras de 2026 incluem a Agência
+Espacial Brasileira; a lista completa está no guia de submissão.
+
+## Registro de uso de IA
+
+Alimenta o campo "Use of Super Intelligence (SI)".
+
+| Ferramenta | Para quê | Onde aparece | Data |
+|---|---|---|---|
+| Claude Code (Anthropic) | redação da documentação de base e dos arquivos de configuração do repositório | raiz do repositório, `.github/`, `docs/` | 14/11/2026 |
+| Claude Code (Anthropic) | leitura das páginas oficiais e resumo em português dos 14 desafios, sem proposta de solução | `docs/desafios/` | 14/11/2026 |
+| Claude Code (Anthropic) | revisão da documentação contra as páginas oficiais e correções | raiz do repositório, `docs/` | 15/11/2026 |
+
+## Material da entrega
+
+| Item | Link | Situação |
+|---|---|---|
+| Página do projeto no Space Apps | | pendente |
+| Demo (slides ou vídeo) | | pendente |
+| Projeto final (site, repositório ou pasta) | | pendente |
