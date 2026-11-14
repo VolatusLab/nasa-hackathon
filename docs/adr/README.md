@@ -12,6 +12,7 @@ desafio, stack, arquitetura, fluxo de Git, licença.
 | [0002](0002-documentacao-em-pt-br-e-entrega-em-ingles.md) | Documentação em pt-BR; entrega em inglês em fork ou repositório novo | aceita |
 | [0003](0003-licenca-apache-2-0.md) | Licença Apache 2.0 | aceita |
 | [0004](0004-desafio-13-jogo-de-projeto-de-missao.md) | Desafio 13: Space Mission Design Game | aceita |
+| [0005](0005-recursos-nasa-primeira-versao.md) | Recursos da NASA usados na primeira versão | aceita |
 
 ## Modelo
 
