@@ -178,6 +178,8 @@ material que não seja da NASA nem de agência parceira.
 | NASA Mission Viz | NASA | <https://nasa.github.io/mission-viz/> | termos do evento `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes (quadro 5) |
 | Mission Design Lab | NASA GSFC | <https://etd.gsfc.nasa.gov/capabilities/integrated-design-center/mission-design-lab/> | termos do evento `[VERIFICAR]` | 14/11/2026 | problemática: níveis de estudo do MDL |
 | A Learning Game About Telescopes (Webb) | NASA Science | <https://science.nasa.gov/mission/webb/game-build-it-yourself/> | termos do evento `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes (quadro 5) |
+| Ranalli (2013), uso do Kerbal Space Program em curso de engenharia (*Frontiers in Education*) | pesquisa acadêmica | <https://jranalli.github.io/preprints/Ranalli2013FIE.pdf> | não indicada `[VERIFICAR]` | 14/11/2026 | problemática: avaliação preliminar de prática com jogo de projeto |
+| ESA Academy, Concurrent Engineering Challenge (2018 e 2025) | ESA Academy | <https://esa.int/Education/ESA_Academy/116_students_tackle_real-world_space_mission_design_at_ESA_Academy_s_Concurrent_Engineering_Challenge_2025> | não indicada `[VERIFICAR]` | 14/11/2026 | problemática: oficina presencial de projeto de missão; link de 2018 a registrar `[VERIFICAR]` |
 
 Dado de agência parceira é incentivado, não exigido. As parceiras de 2026 incluem a Agência
 Espacial Brasileira; a lista completa está no guia de submissão.
