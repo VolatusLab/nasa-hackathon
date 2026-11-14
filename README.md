@@ -18,8 +18,10 @@ material de entrega do Grupo 2.
 
 ## Equipe
 
-Grupo 2, com cinco integrantes. Os nomes dos integrantes maiores de idade entram aqui com o
-acordo de cada um (ver [`docs/pendencias.md`](docs/pendencias.md)).
+Equipe **ASTRIX11**, Grupo 2, com cinco integrantes. Os nomes dos integrantes maiores de idade
+entram aqui com o acordo de cada um (ver [`docs/pendencias.md`](docs/pendencias.md)).
+
+Desafio: **13 — Space Mission Design Game** ([ADR 0004](docs/adr/0004-desafio-13-jogo-de-projeto-de-missao.md)).
 
 ## Como começar
 

@@ -10,7 +10,8 @@ seção final com pontos para a decisão.
   <https://www.spaceappschallenge.org/2026/challenges/>, lidas em 14/11/2026. As páginas avisam
   que mais recursos podem ser acrescentados.
 - **São resumos em português, não tradução integral.** Antes de decidir, leia o enunciado
-  original do desafio escolhido.
+  original do desafio escolhido. Exceção: o desafio 13 tem a tradução integral do enunciado em
+  [`13-enunciado-completo.md`](13-enunciado-completo.md), feita a partir do texto oficial de 14/11/2026.
 - **Redigidos com IA** (Claude Code), registrado em [`../entrega.md`](../entrega.md).
 - **Não trazem proposta de solução.** O guia do evento diz que a IA não deve ser usada para
   conceber como resolver o desafio, então cada documento descreve o problema e levanta

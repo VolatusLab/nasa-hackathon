@@ -1,6 +1,6 @@
 # 0002 — Documentação em pt-BR; entrega em inglês em fork ou repositório novo
 
-- **Data:** 15/11/2026
+- **Data:** 14/11/2026
 - **Situação:** aceita
 
 ## Contexto
@@ -15,7 +15,7 @@ jurado abriria material em português.
 A documentação deste repositório continua em pt-BR. Quando a entrega exigir, a versão em inglês
 é publicada em um fork ou em um repositório novo, e é para lá que o link da submissão aponta.
 
-Decisão do dono do repositório, em 15/11/2026.
+Decisão do dono do repositório, em 14/11/2026.
 
 ## Alternativas consideradas
 

@@ -1,6 +1,6 @@
 # Desafio
 
-**Situação em 14/11/2026:** ainda não escolhido.
+**Situação em 14/11/2026:** escolhido, desafio 13 (ADR [0004](adr/0004-desafio-13-jogo-de-projeto-de-missao.md)).
 
 Este documento guarda os critérios do grupo e a decisão. A descrição de cada desafio está em
 [`desafios/`](desafios/README.md): um documento por desafio e um comparativo.
@@ -36,13 +36,19 @@ Cada documento em `desafios/` termina com perguntas específicas daquele desafio
 
 ## Desafio escolhido
 
-Preencher quando o grupo decidir, e registrar a decisão em um ADR (próximo número livre em
-[`adr/`](adr/README.md)).
+Decisão registrada no [ADR 0004](adr/0004-desafio-13-jogo-de-projeto-de-missao.md), em 14/11/2026.
 
-- **Título oficial:**
-- **Link:**
-- **O problema, em uma frase:**
-- **Quem se beneficia da solução:**
-- **Dados e recursos indicados pelo desafio:**
-- **O que vamos entregar:**
-- **O que fica de fora:**
+- **Título oficial:** Space Mission Design Game
+- **Link:** <https://www.spaceappschallenge.org/2026/challenges/space-mission-design-game/>
+- **O problema, em uma frase:** ensinar a projetar e gerenciar uma missão espacial completa,
+  tomando decisões de engenharia com recursos limitados e vendo como cada escolha afeta o resultado
+  (resumo em [`desafios/13-jogo-de-projeto-de-missao.md`](desafios/13-jogo-de-projeto-de-missao.md)).
+- **Quem se beneficia da solução:** estudantes e aspirantes a engenheiros (público declarado pelo
+  enunciado).
+- **Dados e recursos indicados pelo desafio:** documentos, ferramentas e exemplos, não um conjunto
+  de dados. Lista em [`desafios/13-jogo-de-projeto-de-missao.md`](desafios/13-jogo-de-projeto-de-missao.md)
+  (GMAT, Mission Design Lab, Concept Maturity Levels e outros). Qual entra no jogo está em
+  [`pendencias.md`](pendencias.md).
+- **O que vamos entregar:** jogo ou simulação funcional com modo multijogador para até quatro
+  pessoas, já na primeira versão (decidido em 14/11/2026). O restante do escopo é `pendente`.
+- **O que fica de fora:** `pendente`: o grupo define.

@@ -9,7 +9,7 @@ Cinco pessoas vão trabalhar no mesmo repositório ao mesmo tempo, com prazo cur
 experiência diferentes. A `main` é a versão que será demonstrada na entrega: se ela quebrar perto
 do prazo, o grupo fica sem demo. Ainda não há CI nem testes que barrem um erro automaticamente.
 
-Decidido pelo dono do repositório em 14/11/2026 e confirmado por ele em 15/11/2026, antes da
+Decidido pelo dono do repositório em 14/11/2026, antes da
 entrada dos demais integrantes. A `main` não está protegida no GitHub, então a regra vale por
 acordo.
 

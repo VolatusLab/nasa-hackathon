@@ -1,6 +1,6 @@
 # 0003 — Licença Apache 2.0
 
-- **Data:** 15/11/2026
+- **Data:** 14/11/2026
 - **Situação:** aceita
 
 ## Contexto
@@ -9,7 +9,7 @@ Os termos do evento exigem que o conteúdo original submetido fique disponível 
 sob licença de código aberto reconhecida pela Open Source Initiative (OSI). Se o time não
 indicar uma licença, a NASA distribui o conteúdo sob Apache 2.0
 ([`../entrega.md`](../entrega.md)). O dono do repositório decidiu por licença aberta em
-15/11/2026, sem indicar qual.
+14/11/2026, sem indicar qual.
 
 ## Decisão
 
