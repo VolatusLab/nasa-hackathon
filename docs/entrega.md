@@ -5,7 +5,7 @@ submissão: fontes de dados e uso de IA.
 
 ## Fontes
 
-Páginas oficiais da edição 2026, lidas em 14 e 15/11/2026:
+Páginas oficiais da edição 2026, lidas em 14/11/2026:
 
 - Guia de submissão (13/11/2026): <https://www.spaceappschallenge.org/resources/project-submission-guide/>
 - Guia de julgamento e prêmios (13/11/2026): <https://www.spaceappschallenge.org/resources/judging-awards-guide>
@@ -123,6 +123,10 @@ passo a passo está no guia de submissão.
   e de agências parceiras tornam a solução possível.
 - Hospedagem externa (YouTube, Google Drive, GitHub etc.), com link público.
 - O guia recomenda definir cedo o formato e indicar um integrante para conduzir a demo.
+- A palestra de pitch da organização local (14/11/2026) sugeriu um pitch final de 3 min para a
+  banca, ao vivo, e gravar a demo antes como plano B. É dica da palestra, não regra do evento:
+  o formato segue os requisitos acima, e o tempo da banca local está em
+  [`pendencias.md`](pendencias.md) `[VERIFICAR]`.
 
 ## Uso de IA
 
@@ -175,7 +179,11 @@ Alimenta o campo "Use of Super Intelligence (SI)".
 |---|---|---|---|
 | Claude Code (Anthropic) | redação da documentação de base e dos arquivos de configuração do repositório | raiz do repositório, `.github/`, `docs/` | 14/11/2026 |
 | Claude Code (Anthropic) | leitura das páginas oficiais e resumo em português dos 14 desafios, sem proposta de solução | `docs/desafios/` | 14/11/2026 |
-| Claude Code (Anthropic) | revisão da documentação contra as páginas oficiais e correções | raiz do repositório, `docs/` | 15/11/2026 |
+| Claude Code (Anthropic) | revisão da documentação contra as páginas oficiais e correções | raiz do repositório, `docs/` | 14/11/2026 |
+| Claude Code (Anthropic) | redação do registro da escolha do desafio 13 (ADR 0004) e atualização de estado, pendências e README | `docs/adr/`, `docs/`, `README.md`, `CLAUDE.md`, `CHANGELOG.md` | 14/11/2026 |
+| Claude Code (Anthropic) | leitura da lista de recursos do evento e das notas da palestra de pitch, e registro nos documentos do desafio 13 e da entrega | `docs/desafios/13-jogo-de-projeto-de-missao.md`, `docs/entrega.md` | 14/11/2026 |
+| Claude Code (Anthropic) | redação do modelo de pitch de 10 segundos, com lacunas e exemplos de problema (sem solução) | `docs/pitch.md` | 14/11/2026 |
+| Claude Code (Anthropic) | tradução integral do enunciado do desafio 13 e da aba Recursos para pt-BR, a partir dos textos oficiais impressos em PDF | `docs/desafios/13-enunciado-completo.md`, `docs/desafios/13-jogo-de-projeto-de-missao.md` | 14/11/2026 |
 
 ## Material da entrega
 

@@ -9,6 +9,8 @@
 | o que cada um dos 14 desafios pede, e o comparativo entre eles | [`desafios/`](desafios/README.md) |
 | critérios do grupo, desafio escolhido e por quê | [`desafio.md`](desafio.md) |
 | o que a submissão exige, fontes de dados, uso de IA | [`entrega.md`](entrega.md) |
+| o enunciado completo do desafio 13, traduzido na íntegra | [`desafios/13-enunciado-completo.md`](desafios/13-enunciado-completo.md) |
+| o modelo do pitch de 10 segundos, com lacunas e exemplos | [`pitch.md`](pitch.md) |
 | o que ainda falta decidir | [`pendencias.md`](pendencias.md) |
 | por que uma decisão foi tomada | [`adr/`](adr/README.md) |
 | o que mudou e quando | [`../CHANGELOG.md`](../CHANGELOG.md) |
