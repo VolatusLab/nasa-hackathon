@@ -40,7 +40,7 @@ acesso restrito a formulário.
   acesso, e não apresenta o valor como medido.
 - A licença do Mission Viz e os termos de reuso dos números precisam de confirmação com a NASA. Até
   lá, o uso é só por link. Essa pendência está no item 7 de [`../pendencias.md`](../pendencias.md).
-- A decisão não altera o multijogador, que continua registrado no ADR 0004 e pendente de revisão
+- A decisão não altera o multijogador, que foi adiado pelo ADR 0006
   diante do prazo.
 
 ## Revisitar quando

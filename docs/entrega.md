@@ -44,7 +44,7 @@ A situação do desafio fica em [`desafio.md`](desafio.md); as decisões em aber
 | Demo: slides (até 7, contando título e introdução) **ou** vídeo (até 30 segundos). Passou do limite, fica fora do julgamento global | pendente |
 | Links da demo e do projeto final **públicos**, sem senha, permissão ou cadastro | pendente: o link do projeto apontará para a versão de entrega em inglês ([ADR 0002](adr/0002-documentacao-em-pt-br-e-entrega-em-ingles.md)) |
 | Usar ao menos um dado ou recurso da NASA (condição para prêmio global) | pendente |
-| Sem **nome reconhecível, voz, imagem, vídeo ou outra representação de menor de 18 anos** em nada do que for submetido | **há integrante menor de 18 anos**: o nome, a voz e a imagem dele ficam fora da página, da demo e do projeto |
+| Sem **nome reconhecível, voz, imagem, vídeo ou outra representação de menor de 18 anos** em nada do que for submetido | **há integrante menor de 18 anos**: o nome, a voz e a imagem dele ficam fora da página, da demo e do projeto. Nos materiais de entrega ele aparece só por iniciais (ADR 0007), e o repositório não registra as iniciais; confirmação da organização `[VERIFICAR]` |
 | Menor de 18 anos inscrito por pai, mãe ou responsável legal e acompanhado por ele durante todo o evento; o evento local pode ter exigências próprias | `[VERIFICAR]` com o grupo e com a organização local |
 | Nenhum integrante participa por vínculo com a China ou com entidade de propriedade chinesa, inclusive universidades (o critério é vínculo institucional, não nacionalidade) | `[VERIFICAR]` |
 | Marcar as duas caixas e clicar em "Submit for Judging" | pendente |

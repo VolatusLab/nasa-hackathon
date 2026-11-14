@@ -212,8 +212,8 @@ Descrevem o campo de decisão. **Nenhuma escolhe um lado.**
 - **Realismo × acessibilidade:** o enunciado pede restrições realistas e acesso a pessoas com
   pouco conhecimento [S8].
 - **Profundidade × prazo:** o escopo é amplo, e o prazo termina em 15/11/2026, 23h59.
-- **Multijogador × avaliação individual:** o grupo decidiu incluir multijogador desde a primeira
-  versão (ADR 0004); o enunciado cita colaboração entre papéis diferentes [S8]. Medir o aprendizado
+- **Multijogador × avaliação individual:** o grupo decidiu adiar o multijogador para depois da primeira
+  versão (ADR 0006); o enunciado cita colaboração entre papéis diferentes [S8]. Medir o aprendizado
   de cada um em equipe é um problema próprio.
 - **Dado real × modelo simplificado:** o enunciado aceita modelos realistas ou simplificados [S8]; o
   critério de Relevância pede dado da NASA central.

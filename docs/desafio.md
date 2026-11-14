@@ -50,6 +50,6 @@ Decisão registrada no [ADR 0004](adr/0004-desafio-13-jogo-de-projeto-de-missao.
   de dados. Lista em [`desafios/13-jogo-de-projeto-de-missao.md`](desafios/13-jogo-de-projeto-de-missao.md)
   (GMAT, Mission Design Lab, Concept Maturity Levels e outros). Qual entra no jogo está em
   [`pendencias.md`](pendencias.md).
-- **O que vamos entregar:** jogo ou simulação funcional com modo multijogador para até quatro
-  pessoas, já na primeira versão (decidido em 14/11/2026). O restante do escopo é `pendente`.
+- **O que vamos entregar:** jogo ou simulação funcional sem modo multijogador na primeira versão (ADR 0006); o
+  O multijogador para até quatro pessoas fica para depois. O restante do escopo é `pendente`.
 - **O que fica de fora:** `pendente`: o grupo define.
