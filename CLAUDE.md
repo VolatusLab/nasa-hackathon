@@ -58,6 +58,7 @@ docs/README.md      índice
 docs/desafios/      um documento por desafio (14) e o comparativo
 docs/desafio.md     critérios do grupo e desafio escolhido
 docs/entrega.md     requisitos da submissão, fontes de dados, uso de IA
+docs/problematica.md  problemática do desafio escolhido, com fontes e perguntas de decisão
 docs/pendencias.md  decisões em aberto
 docs/adr/           registros de decisão
 ```

@@ -166,7 +166,18 @@ material que não seja da NASA nem de agência parceira.
 
 | Dado ou recurso | Agência ou origem | Link | Licença | Acessado em | Para que usamos |
 |---|---|---|---|---|---|
-| | | | | | |
+| Enunciado do desafio 13 (página oficial) | NASA Space Apps Challenge 2026 | <https://www.spaceappschallenge.org/2026/challenges/space-mission-design-game/> | termos do evento `[VERIFICAR]` | 14/11/2026 | regra do desafio; tradução e problemática |
+| Aba Recursos do desafio 13 | NASA Space Apps Challenge 2026 | <https://www.spaceappschallenge.org/2026/challenges/space-mission-design-game/?tab=resources> | termos do evento `[VERIFICAR]` | 14/11/2026 | lista de recursos do desafio |
+| Flight Systems Integration & Test: Lessons Learned for Future Success (Wright, 2018), NTRS 20180003229 | NASA Goddard | <https://ntrs.nasa.gov/api/citations/20180003229/downloads/20180003229.pdf> | governo dos EUA `[VERIFICAR]` | 14/11/2026 | problemática: integração e teste como etapa de verificação |
+| NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev2 | NASA | <https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf> | governo dos EUA `[VERIFICAR]` | 14/11/2026 | problemática: margem de projeto e estudos de trade |
+| GAO-02-195, NASA: Better Mechanisms Needed for Sharing Lessons Learned | GAO | <https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-195/html/GAOREPORTS-GAO-02-195.htm> | domínio público `[VERIFICAR]` | 14/11/2026 | problemática: lições não aplicadas e perda da Mars Polar Lander |
+| GAO-01-1015R, Survey of NASA's Lessons Learned Process | GAO | <https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-01-1015R/html/GAOREPORTS-GAO-01-1015R.htm> | domínio público `[VERIFICAR]` | 14/11/2026 | problemática: barreiras culturais ao registro de lições |
+| Mars Climate Orbiter (página oficial da NASA) | NASA Science | <https://science.nasa.gov/mission/mars-climate-orbiter/> | página oficial `[VERIFICAR]` | 14/11/2026 | problemática: causa resumida da perda; relatório da comissão ainda não lido |
+| NASA Space Voyagers: The Game | NASA JPL Education | <https://www.jpl.nasa.gov/edu/learn/project/nasa-space-voyagers-the-game/> | não indicada `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes |
+| Marsbound! Mission to the Red Planet (guia completo) | NASA JPL Education | <https://d2pn8kiwq2w21t.cloudfront.net/documents/marsbound-fullguide.pdf> | não indicada `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes e avaliação pré e pós |
+| NASA Mission Viz | NASA | <https://nasa.github.io/mission-viz/> | termos do evento `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes (quadro 5) |
+| Mission Design Lab | NASA GSFC | <https://etd.gsfc.nasa.gov/capabilities/integrated-design-center/mission-design-lab/> | termos do evento `[VERIFICAR]` | 14/11/2026 | problemática: níveis de estudo do MDL |
+| A Learning Game About Telescopes (Webb) | NASA Science | <https://science.nasa.gov/mission/webb/game-build-it-yourself/> | termos do evento `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes (quadro 5) |
 
 Dado de agência parceira é incentivado, não exigido. As parceiras de 2026 incluem a Agência
 Espacial Brasileira; a lista completa está no guia de submissão.
@@ -184,6 +195,7 @@ Alimenta o campo "Use of Super Intelligence (SI)".
 | Claude Code (Anthropic) | leitura da lista de recursos do evento e das notas da palestra de pitch, e registro nos documentos do desafio 13 e da entrega | `docs/desafios/13-jogo-de-projeto-de-missao.md`, `docs/entrega.md` | 14/11/2026 |
 | Claude Code (Anthropic) | redação do modelo de pitch de 10 segundos, com lacunas e exemplos de problema (sem solução) | `docs/pitch.md` | 14/11/2026 |
 | Claude Code (Anthropic) | tradução integral do enunciado do desafio 13 e da aba Recursos para pt-BR, a partir dos textos oficiais impressos em PDF | `docs/desafios/13-enunciado-completo.md`, `docs/desafios/13-jogo-de-projeto-de-missao.md` | 14/11/2026 |
+| Claude Code (Anthropic) | redação da problemática do desafio 13 (camadas, tensões e perguntas de decisão), a partir das fontes listadas no registro de fontes | `docs/problematica.md` | 14/11/2026 |
 
 ## Material da entrega
 
