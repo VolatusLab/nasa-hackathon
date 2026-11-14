@@ -5,7 +5,7 @@ fica no documento do assunto.
 
 ## 14/11/2026
 
-- Problemática do desafio 13 em `docs/problematica.md`, com camadas (engenharia, aprendizado e ferramentas existentes), 9 fontes lidas e 8 perguntas de decisão. Lacunas de evidência e de contexto brasileiro ficam marcadas `[VERIFICAR]`.
+- Problemática do desafio 13 em `docs/problematica.md`, reescrita com foco em prática e avaliação, 11 fontes e 8 perguntas de decisão. Lacunas de evidência e de contexto brasileiro ficam marcadas `[VERIFICAR]`.
 - Desafio 13 (Space Mission Design Game) escolhido, registrado no ADR 0004; nome da equipe: ASTRIX11.
 - Escopo decidido: multijogador para até quatro pessoas na primeira versão, e uso de recursos da NASA (ADR 0004).
 - Enunciado completo e aba Recursos do desafio 13 traduzidos para pt-BR em `docs/desafios/13-enunciado-completo.md`; lista de recursos conferida com a aba oficial; modelo de pitch de 10 s em `docs/pitch.md`.
