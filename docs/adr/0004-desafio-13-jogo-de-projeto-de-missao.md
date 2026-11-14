@@ -1,7 +1,7 @@
 # 0004 — Desafio 13: Space Mission Design Game
 
 - **Data:** 14/11/2026
-- **Situação:** aceita
+- **Situação:** aceita; o multijogador na primeira versão foi substituído pelo ADR 0006
 
 ## Contexto
 
@@ -20,7 +20,7 @@ intermediário.
 O grupo escolheu o **desafio 13 — Space Mission Design Game**, como jogo, com o nome de equipe
 **ASTRIX11**.
 
-Decidido também em 14/11/2026: o jogo terá **modo multijogador para até quatro pessoas já na
+Decidido também em 14/11/2026 (parte do multijogador substituída pelo ADR 0006): o jogo terá **modo multijogador para até quatro pessoas já na
 primeira versão**, e o grupo vai **usar recursos da NASA**. Quais recursos, e o restante do escopo,
 seguem pendentes ([`../pendencias.md`](../pendencias.md), itens 6 e 7).
 
@@ -36,7 +36,7 @@ Não foram registradas pelo grupo. `[VERIFICAR]` com quem decidiu. O comparativo
 - O desafio não indica um conjunto de dados. O critério "Relevância" pede dado da NASA como parte
   central, então o grupo precisa decidir como um recurso da NASA entra no jogo (ver
   [`../pendencias.md`](../pendencias.md)).
-- O multijogador para até quatro pessoas é uma parte técnica pesada, e entra na primeira versão.
+- O multijogador para até quatro pessoas é uma parte técnica pesada. Pelo ADR 0006, ele fica para depois da primeira versão.
   Isso aumenta o escopo técnico e pede atenção ao planejamento da equipe.
 - A entrega do desafio é um jogo ou simulação funcional. Demo, stack e o que fica de fora ainda
   não estão definidos.

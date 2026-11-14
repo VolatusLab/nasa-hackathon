@@ -73,7 +73,7 @@ pré-condição de merge.
 
 - 14/11/2026: repositório privado `VolatusLab/nasa-hackathon` (renomeado de `nasa-hackaton`
   nessa data), branch `main`, sem proteção de branch; só documentação.
-- 14/11/2026: desafio 13, Space Mission Design Game, escolhido (ADR 0004), com multijogador para até quatro pessoas na primeira versão e uso de recursos da NASA; equipe ASTRIX11; stack não definida; sem CI; licença Apache 2.0 (ADR 0003).
+- 14/11/2026: desafio 13, Space Mission Design Game, escolhido (ADR 0004), multijogador adiado para depois da primeira versão (ADR 0006); recursos da NASA da primeira versão (ADR 0005); equipe ASTRIX11; stack não definida; sem CI; licença Apache 2.0 (ADR 0003).
 - 14/11/2026: os outros quatro integrantes ainda não foram convidados como colaboradores.
 - Prazo de submissão: 15/11/2026, 23h59, horário do evento local (`docs/entrega.md`).
 

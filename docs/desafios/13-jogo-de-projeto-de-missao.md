@@ -61,7 +61,7 @@ diferença entre os dois documentos foi verificada: a aba oficial é a lista com
 - **Semelhança com outro desafio:** o [03](03-treinador-de-astronauta-junior.md) também pede
   jogo, com público de 7 a 12 anos e foco em operar uma base, não em projetar a missão.
 - **Perguntas para o grupo responder antes de escolher:**
-  - Multijogador: decidido em 14/11/2026, entra na primeira versão ([ADR 0004](../adr/0004-desafio-13-jogo-de-projeto-de-missao.md)).
+  - Multijogador: fica para depois da primeira versão ([ADR 0006](../adr/0006-multijogador-depois-da-primeira-versao.md)).
   - Quais recursos e quantos componentes entram?
   - De onde vêm os valores de massa, custo e energia de cada componente?
   - Como o jogo explica por que a missão falhou?
