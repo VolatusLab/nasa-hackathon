@@ -5,6 +5,7 @@ fica no documento do assunto.
 
 ## 14/11/2026
 
+- Recursos da NASA da primeira versão aprovados (ADR 0005): números de kits de imprensa como referência, Mission Viz e Webb só por link.
 - Problemática do desafio 13 em `docs/problematica.md`, reescrita com foco em prática e avaliação, 11 fontes e 8 perguntas de decisão. Lacunas de evidência e de contexto brasileiro ficam marcadas `[VERIFICAR]`.
 - Desafio 13 (Space Mission Design Game) escolhido, registrado no ADR 0004; nome da equipe: ASTRIX11.
 - Escopo decidido: multijogador para até quatro pessoas na primeira versão, e uso de recursos da NASA (ADR 0004).

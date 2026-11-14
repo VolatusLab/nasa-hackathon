@@ -14,7 +14,7 @@ Atualizado em 14/11/2026. **Prazo de submissão: 15/11/2026, 23h59** ([`entrega.
 | 4 | Confirmar que nenhum integrante participa por vínculo com a China ou com entidade de propriedade chinesa | grupo | — |
 | 5 | Convidar os outros quatro integrantes como colaboradores do repositório | dono da conta `VolatusLab` | usuário do GitHub de cada um |
 | 6 | Definir o restante do escopo da primeira versão: o que entra e o que fica de fora. O multijogador para até quatro pessoas já entra (decidido em 14/11/2026, [`desafio.md`](desafio.md)) | grupo | — |
-| 7 | Escolher quais recursos da NASA entram no jogo. O uso já foi decidido em 14/11/2026, e o critério "Relevância" pede dado como parte central. A aba Recursos oficial tem nove links, listados em [`desafios/13-jogo-de-projeto-de-missao.md`](desafios/13-jogo-de-projeto-de-missao.md) | grupo | — |
+| 7 | Confirmar com a NASA a licença do Mission Viz e os termos de reuso dos números dos kits de imprensa, antes de usar além de link (escolha dos recursos no [ADR 0005](adr/0005-recursos-nasa-primeira-versao.md)). Antes, o critério "Relevância" pede dado como parte central. A aba Recursos oficial tem nove links, listados em [`desafios/13-jogo-de-projeto-de-missao.md`](desafios/13-jogo-de-projeto-de-missao.md) | grupo | — |
 | 8 | Definir a stack e registrar em ADR | grupo | 6 |
 | 9 | Definir o nome do projeto (o nome da equipe, ASTRIX11, já está definido) e quem edita a página do projeto no site do evento | grupo | — |
 | 10 | Definir o formato da demo (slides ou vídeo) e quem a conduz | grupo | 6 |

@@ -175,12 +175,13 @@ material que não seja da NASA nem de agência parceira.
 | Mars Climate Orbiter (página oficial da NASA) | NASA Science | <https://science.nasa.gov/mission/mars-climate-orbiter/> | página oficial `[VERIFICAR]` | 14/11/2026 | problemática: causa resumida da perda; relatório da comissão ainda não lido |
 | NASA Space Voyagers: The Game | NASA JPL Education | <https://www.jpl.nasa.gov/edu/learn/project/nasa-space-voyagers-the-game/> | não indicada `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes |
 | Marsbound! Mission to the Red Planet (guia completo) | NASA JPL Education | <https://d2pn8kiwq2w21t.cloudfront.net/documents/marsbound-fullguide.pdf> | não indicada `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes e avaliação pré e pós |
-| NASA Mission Viz | NASA | <https://nasa.github.io/mission-viz/> | termos do evento `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes (quadro 5) |
+| NASA Mission Viz | NASA | <https://nasa.github.io/mission-viz/> | sem licença no repositório (zip baixado em 14/11/2026; API do GitHub retorna licença nula); código não copiado; `[VERIFICAR]` com a NASA | 14/11/2026 | uso decidido no ADR 0005: só link, sem incorporação |
 | Mission Design Lab | NASA GSFC | <https://etd.gsfc.nasa.gov/capabilities/integrated-design-center/mission-design-lab/> | termos do evento `[VERIFICAR]` | 14/11/2026 | problemática: níveis de estudo do MDL |
-| A Learning Game About Telescopes (Webb) | NASA Science | <https://science.nasa.gov/mission/webb/game-build-it-yourself/> | termos do evento `[VERIFICAR]` | 14/11/2026 | problemática: ferramentas existentes (quadro 5) |
+| A Learning Game About Telescopes (Webb) | NASA Science | <https://science.nasa.gov/mission/webb/game-build-it-yourself/> | sem termos de reuso na página (14/11/2026); conteúdo do jogo não verificado; imagem com nome de arquivo CC BY-NC 2.0 não usada | 14/11/2026 | uso decidido no ADR 0005: só link, como referência de design |
 | Ranalli (2013), uso do Kerbal Space Program em curso de engenharia (*Frontiers in Education*) | pesquisa acadêmica | <https://jranalli.github.io/preprints/Ranalli2013FIE.pdf> | não indicada `[VERIFICAR]` | 14/11/2026 | problemática: avaliação preliminar de prática com jogo de projeto |
 | ESA Academy, Concurrent Engineering Challenge (2018 e 2025) | ESA Academy | <https://esa.int/Education/ESA_Academy/116_students_tackle_real-world_space_mission_design_at_ESA_Academy_s_Concurrent_Engineering_Challenge_2025> | não indicada `[VERIFICAR]` | 14/11/2026 | problemática: oficina presencial de projeto de missão; link de 2018 a registrar `[VERIFICAR]` |
-
+| Números de projeto da missão NISAR (kit de imprensa JPL, *quick facts*) | NASA/JPL | <https://www.jpl.nasa.gov/press-kits/nisar/quick-facts/> | sem cláusula de uso para os números; imagens sob a política de imagem JPL (v3.2.0) `[VERIFICAR]` | 14/11/2026 | valores de referência de massa, potência e taxa de dados (ADR 0005); lançamento previsto para 30/07/2025, valores de projeto, não medidos |
+| Números de projeto da missão Europa Clipper (kit de imprensa JPL, *quick facts*) | NASA/JPL | <https://www.jpl.nasa.gov/press-kits/europa-clipper/quick-facts/> | sem cláusula de uso para os números `[VERIFICAR]` | 14/11/2026 | valores de referência (ADR 0005); massa de lançamento inclui propelente; página indica lançamento em outubro de 2024 |
 Dado de agência parceira é incentivado, não exigido. As parceiras de 2026 incluem a Agência
 Espacial Brasileira; a lista completa está no guia de submissão.
 
@@ -198,6 +199,7 @@ Alimenta o campo "Use of Super Intelligence (SI)".
 | Claude Code (Anthropic) | redação do modelo de pitch de 10 segundos, com lacunas e exemplos de problema (sem solução) | `docs/pitch.md` | 14/11/2026 |
 | Claude Code (Anthropic) | tradução integral do enunciado do desafio 13 e da aba Recursos para pt-BR, a partir dos textos oficiais impressos em PDF | `docs/desafios/13-enunciado-completo.md`, `docs/desafios/13-jogo-de-projeto-de-missao.md` | 14/11/2026 |
 | Claude Code (Anthropic) | redação da problemática do desafio 13 (camadas, tensões e perguntas de decisão), a partir das fontes listadas no registro de fontes | `docs/problematica.md` | 14/11/2026 |
+| Claude Code (Anthropic) | análise e revisão por pares dos recursos da NASA, redação do ADR 0005 e dos registros de fontes deste PR | `docs/adr/0005-recursos-nasa-primeira-versao.md`, `docs/entrega.md` | 14/11/2026 |
 
 ## Material da entrega
 
