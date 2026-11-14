@@ -42,7 +42,8 @@ Decisão registrada no [ADR 0004](adr/0004-desafio-13-jogo-de-projeto-de-missao.
 - **Link:** <https://www.spaceappschallenge.org/2026/challenges/space-mission-design-game/>
 - **O problema, em uma frase:** ensinar a projetar e gerenciar uma missão espacial completa,
   tomando decisões de engenharia com recursos limitados e vendo como cada escolha afeta o resultado
-  (resumo em [`desafios/13-jogo-de-projeto-de-missao.md`](desafios/13-jogo-de-projeto-de-missao.md)).
+  (enunciado completo em [`desafios/13-enunciado-completo.md`](desafios/13-enunciado-completo.md);
+  problemática com fontes e perguntas de decisão em [`problematica.md`](problematica.md)).
 - **Quem se beneficia da solução:** estudantes e aspirantes a engenheiros (público declarado pelo
   enunciado).
 - **Dados e recursos indicados pelo desafio:** documentos, ferramentas e exemplos, não um conjunto

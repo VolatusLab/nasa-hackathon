@@ -29,3 +29,4 @@ Atualizado em 14/11/2026. **Prazo de submissão: 15/11/2026, 23h59** ([`entrega.
 | 14 | Confirmar com a organização de Ceres-GO os horários do julgamento e da premiação locais, e a duração do pitch final para a banca (a palestra de 14/11/2026 citou 3 min, `[VERIFICAR]`) | grupo | — |
 | 15 | Configurar CI com o portão do projeto | grupo | 8 |
 | 16 | Redigir o one-liner de 10 s com a ideia do grupo, a partir do modelo em [`pitch.md`](pitch.md) | grupo | 6 |
+| 17 | Validar a problemática em [`problematica.md`](problematica.md) antes de fechar o escopo e a stack: confirmar as fontes (incluindo as lacunas `[VERIFICAR]`) e responder às perguntas Q1 a Q8 | grupo | — |
