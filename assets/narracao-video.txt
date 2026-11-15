@@ -1,0 +1,15 @@
+O Desafio e a Inspiração
+
+"Nosso projeto aborda o desafio Space Mission Design Game. A engenharia espacial costuma ser ensinada de forma abstrata e fragmentada, e quisemos criar um ambiente onde qualquer estudante sinta na pele as escolhas reais de uma missão completa."
+
+Nome e Slogan
+
+"Apresentamos o ASTRIX 11 — Onde cada grama, watt e decisão define o sucesso no espaço."
+
+Como Funciona e Dados da NASA
+
+"No jogo, até quatro jogadores assumem papéis distintos — como ciência, propulsão e orçamento — para projetar uma espaçonave, escolher a órbita e lançar a missão. O protótipo exibe em tempo real como cada instrumento afeta massa, energia e custo, gerando um relatório pós-missão. Tudo isso foi modelado usando a engenharia de sistemas e os Concept Maturity Levels do JPL, além dos guias CubeSat 101, GMAT e Mission Viz da NASA."
+
+[0:20–0:30] Visão de Futuro
+
+"Imagine transformar salas de aula no mundo inteiro em verdadeiros centros de controle da NASA. O ASTRIX 11 democratiza a engenharia aeroespacial, formando a próxima geração de cientistas e exploradores capazes de resolver problemas complexos antes mesmo de pisarem em um laboratório real."
