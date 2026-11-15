@@ -76,9 +76,12 @@ dele.
   reais), credenciais do Earthdata (`.netrc`).
 - Dado pessoal real: nome, CPF, telefone ou e-mail em teste, exemplo ou dado de apoio. Use
   fictícios ("Maria Exemplo", `000.000.000-00`).
+- Nome ou iniciais do integrante menor de 18 anos
+  ([ADR 0007](docs/adr/0007-integrante-menor-por-iniciais.md)).
 - Arquivo gerado: `node_modules`, `dist`, `.venv`, cache.
 - Arquivo grande de dados: guarde em `data/raw/`, que o Git ignora, e registre a fonte e o link
-  em `docs/entrega.md`. O GitHub recusa arquivo acima de 100 MB.
+  em `docs/entrega.md`. Só o `data/raw/MANIFEST.tsv` é versionado: acrescente nele a URL, o hash e
+  a data do que baixar. O GitHub recusa arquivo acima de 100 MB.
 
 Se um segredo for enviado por engano, avise o grupo na hora: apagar o commit não basta, a chave
 precisa ser trocada.

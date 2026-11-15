@@ -1,7 +1,7 @@
 # Pitch de 10 segundos: desafio 13
 
 Modelo com lacunas e exemplos que só descrevem o problema. **A ideia da solução é do grupo**
-([ADR 0004](adr/0004-desafio-13-jogo-de-projeto-de-missao.md), [`../CLAUDE.md`](../CLAUDE.md) §1):
+([`entrega.md`](entrega.md), seção "Uso de IA"; [`../CLAUDE.md`](../CLAUDE.md) §1):
 este documento não propõe mecânica, recurso da NASA nem solução.
 
 - **Base:** os exemplos foram conferidos contra o enunciado oficial, em
@@ -10,6 +10,8 @@ este documento não propõe mecânica, recurso da NASA nem solução.
 - **Tempo:** 10 s de fala equivalem a cerca de 22 a 27 palavras, na faixa usual de fala de
   apresentação. Estimativa, não medida: `[VERIFICAR]` lendo em voz alta com cronômetro. Os exemplos
   abaixo têm entre 15 e 23 palavras.
+- **O que o pitch pode e não pode afirmar:** tabela na seção 12.2 de
+  [`problematica.md`](problematica.md).
 - **Origem da estrutura:** a palestra de pitch do evento local (14/11/2026) usou "Quem ·
   Resolver o quê · Qual dado da NASA". É dica da palestra, não regra do evento.
 
@@ -23,13 +25,18 @@ English (versão de entrega):
 
 > [Who] needs to [solve what], and [NASA resource] [links that resource to the problem].
 
-As lacunas são do grupo. Ver a pendência sobre quais recursos da NASA entram no jogo em
-[`pendencias.md`](pendencias.md).
+As lacunas são do grupo. Os recursos da NASA da primeira versão estão no
+[ADR 0005](adr/0005-recursos-nasa-primeira-versao.md); como eles entram no jogo segue em
+[`pendencias.md`](pendencias.md), item 7.
 
 ## Exemplos que descrevem só o problema
 
 Cada exemplo tem a versão em inglês e a versão em português. Nenhum nomeia recurso da NASA ou
 mecânica do jogo. A contagem de palavras é da versão indicada.
+
+Os exemplos 3 e 4 repetem premissas do enunciado, não fatos conferidos pelo grupo. No pitch, eles
+precisam vir atribuídos ao desafio ("o desafio aponta que..."), como pede a tabela 12.2 de
+[`problematica.md`](problematica.md).
 
 **Exemplo 1: trade-off entre os recursos da missão** (enunciado: "Resource Management")
 
@@ -74,5 +81,5 @@ mecânica do jogo. A contagem de palavras é da versão indicada.
 
 - Enunciado completo, em português: [`desafios/13-enunciado-completo.md`](desafios/13-enunciado-completo.md).
 - Critérios de julgamento e formato da demo: [`entrega.md`](entrega.md).
-- Escopo da primeira versão e recurso da NASA: [`desafio.md`](desafio.md) e
-  [`pendencias.md`](pendencias.md).
+- Escopo da primeira versão e recurso da NASA: [`desafio.md`](desafio.md),
+  [ADR 0005](adr/0005-recursos-nasa-primeira-versao.md) e [`pendencias.md`](pendencias.md).
