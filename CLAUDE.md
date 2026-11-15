@@ -61,6 +61,7 @@ docs/desafio.md     critérios do grupo e desafio escolhido
 docs/entrega.md     requisitos da submissão, fontes de dados, uso de IA
 docs/problematica.md  problemática do desafio escolhido, com fontes e perguntas de decisão
 docs/pitch.md       modelo do pitch de 10 segundos
+docs/pitch-final.md guia do pitch final de 3 minutos para a banca local
 docs/pendencias.md  decisões em aberto
 docs/adr/           registros de decisão
 assets/             texto e impressões das páginas oficiais e material do evento local (terceiros; não
@@ -113,7 +114,7 @@ pré-condição de merge.
 |---|---|
 | escolha ou escopo do desafio | `docs/desafios/README.md` (comparativo), `docs/desafio.md` (decisão) |
 | escopo, público ou mecânica do jogo | `docs/problematica.md` (perguntas Q1 a Q8), `docs/adr/0005-recursos-nasa-primeira-versao.md`, `docs/adr/0006-multijogador-depois-da-primeira-versao.md` |
-| pitch ou one-liner | `docs/pitch.md` |
+| pitch ou one-liner | `docs/pitch.md` (10 s), `docs/pitch-final.md` (3 min) |
 | nome ou crédito de integrante | `docs/adr/0007-integrante-menor-por-iniciais.md` |
 | página de submissão, demo, slides, licença | `docs/entrega.md`, `docs/adr/0003-licenca-apache-2-0.md` |
 | versão de entrega em inglês | `docs/adr/0002-documentacao-em-pt-br-e-entrega-em-ingles.md` |

@@ -3,6 +3,10 @@
 O que mudou e quando, do mais recente para o mais antigo. De 1 a 3 linhas por entrada; o detalhe
 fica no documento do assunto.
 
+## 15/11/2026
+
+- Guia do pitch final de 3 minutos para a banca local em `docs/pitch-final.md`: cinco estágios com tempos, orçamento de palavras, roteiro com lacunas, demo e plano B, perguntas prováveis e ensaio. Pitch todo em português; duração e formato `[VERIFICAR]` com a organização.
+
 ## 14/11/2026
 
 - Os nove recursos da aba oficial descritos um a um em `docs/desafios/13-recursos.md`, a partir dos arquivos baixados. Texto oficial das abas Details e Resources guardado em `assets/`.

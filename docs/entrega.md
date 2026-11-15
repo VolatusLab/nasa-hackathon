@@ -125,9 +125,8 @@ passo a passo está no guia de submissão.
 - Hospedagem externa (YouTube, Google Drive, GitHub etc.), com link público.
 - O guia recomenda definir cedo o formato e indicar um integrante para conduzir a demo.
 - A palestra de pitch da organização local (14/11/2026) sugeriu um pitch final de 3 min para a
-  banca, ao vivo, e gravar a demo antes como plano B. É dica da palestra, não regra do evento:
-  o formato segue os requisitos acima, e o tempo da banca local está em
-  [`pendencias.md`](pendencias.md) `[VERIFICAR]`.
+  banca, ao vivo, e gravar a demo antes como plano B. É dica da palestra, não regra do evento.
+  Estrutura, roteiro, ensaio e o que fica `[VERIFICAR]` estão em [`pitch-final.md`](pitch-final.md).
 
 ## Uso de IA
 
@@ -209,6 +208,7 @@ Alimenta o campo "Use of Super Intelligence (SI)".
 | Claude Code (Anthropic) | leitura dos nove recursos da aba oficial nos arquivos baixados e descrição de cada um, sem recomendação de uso | `docs/desafios/13-recursos.md` | 14/11/2026 |
 | Claude Code (Anthropic) | consolidação da problemática: o que o enunciado pede e o que sugere, e o que o pitch pode afirmar com fonte | `docs/problematica.md` | 14/11/2026 |
 | Claude Code (Anthropic) | revisão geral do repositório, seguida de revisão por pares com agentes: conferência das citações e da tradução contra os arquivos-fonte, correções nos documentos, no `.gitattributes` e no `.gitignore` | raiz do repositório, `docs/` | 14/11/2026 |
+| Claude Code (Anthropic) | redação do guia do pitch final de 3 minutos (estrutura, tempos, lacunas, regras e checklists, sem proposta de solução), a partir das notas da palestra de pitch e dos documentos do repositório | `docs/pitch-final.md`, `docs/entrega.md`, `docs/pitch.md`, `docs/README.md`, `CLAUDE.md`, `CHANGELOG.md` | 15/11/2026 |
 
 ## Material da entrega
 

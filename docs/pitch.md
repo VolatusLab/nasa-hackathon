@@ -80,6 +80,7 @@ precisam vir atribuídos ao desafio ("o desafio aponta que..."), como pede a tab
 ## Onde mais aparece
 
 - Enunciado completo, em português: [`desafios/13-enunciado-completo.md`](desafios/13-enunciado-completo.md).
+- Pitch final de 3 minutos para a banca: [`pitch-final.md`](pitch-final.md).
 - Critérios de julgamento e formato da demo: [`entrega.md`](entrega.md).
 - Escopo da primeira versão e recurso da NASA: [`desafio.md`](desafio.md),
   [ADR 0005](adr/0005-recursos-nasa-primeira-versao.md) e [`pendencias.md`](pendencias.md).
