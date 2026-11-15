@@ -3,7 +3,8 @@
 Projeto do **Grupo 2** no **NASA Space Apps Challenge 2026**, sede **Ceres-GO**.
 
 > **Prazo de submissão: domingo, 15/11/2026, 23h59** (horário do evento local).
-> O que falta decidir, em ordem de urgência: [`docs/pendencias.md`](docs/pendencias.md).
+> O que falta decidir, separado entre o que bloqueia a submissão e o que não bloqueia:
+> [`docs/pendencias.md`](docs/pendencias.md).
 
 ## O que é
 
@@ -29,8 +30,10 @@ Desafio: **13 — Space Mission Design Game** ([ADR 0004](docs/adr/0004-desafio-
    da conta `VolatusLab`.
 2. Clone: `git clone https://github.com/VolatusLab/nasa-hackathon.git`
 3. Leia o [`CONTRIBUTING.md`](CONTRIBUTING.md) antes do primeiro commit.
-4. Enquanto o desafio não estiver escolhido, leia o comparativo em
-   [`docs/desafios/README.md`](docs/desafios/README.md) e leve seus candidatos ao grupo.
+4. Leia o enunciado do desafio 13 em português
+   ([`docs/desafios/13-enunciado-completo.md`](docs/desafios/13-enunciado-completo.md)) e a
+   problemática ([`docs/problematica.md`](docs/problematica.md)), que traz perguntas de decisão
+   para o escopo.
 
 Ainda não há o que instalar nem rodar. Quando a stack for escolhida, os comandos de instalação,
 execução e teste entram nesta seção.
@@ -45,10 +48,17 @@ nasa-hackathon/
 ├── CLAUDE.md            regras para assistentes de código
 ├── LICENSE              Apache License 2.0
 ├── .github/             modelo de pull request
+├── assets/              texto e impressões das páginas oficiais e material do evento local
+│                        (terceiros; não vai para a versão pública)
+├── data/raw/            arquivos-fonte baixados, fora do Git; só o MANIFEST.tsv é versionado
+│                        (URL, hash e data de cada arquivo)
 └── docs/
     ├── README.md        índice da documentação
-    ├── desafios/        um documento por desafio (14) e o comparativo
+    ├── desafios/        um documento por desafio (14), o comparativo, o enunciado do 13
+    │                    traduzido e os nove recursos do 13 descritos
     ├── desafio.md       critérios do grupo e desafio escolhido
+    ├── problematica.md  problemática do desafio 13, com fontes e perguntas de decisão
+    ├── pitch.md         modelo do pitch de 10 segundos
     ├── entrega.md       requisitos da submissão, fontes de dados e uso de IA
     ├── pendencias.md    decisões em aberto
     └── adr/             registros de decisão

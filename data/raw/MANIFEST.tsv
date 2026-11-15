@@ -1,0 +1,23 @@
+arquivo	url	status	bytes	sha256	acesso
+nasa-recursos/design-and-develop-science-missions.pdf	https://www.nasa.gov/wp-content/uploads/2025/04/250323-design-and-develop-science-mission.pdf?emrc=a454cf	OK 200	2624448	7220691fb47fa5e9ff25f37ae1df25587574d7c8c2a88a7fbe48788cf2797161	2026-11-14
+nasa-recursos/cubesat-101.pdf	https://www3.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf	OK 200	4445718	57d2783457cb94b69136476ca341ddf4c7dc23bf61682606e37a048e9e5ae592	2026-11-14
+nasa-recursos/mission-viz-repo.zip	https://github.com/nasa/mission-viz/archive/refs/heads/main.zip	OK 200	6136242	6c01e9c15c8ae11bb0cfc6dc2a35849e8da9a7da4af9a4f6a857cef09a8013a5	2026-11-14
+nasa-recursos/gmat-catalogo-software.html	https://software.nasa.gov/software/GSC-19468-1	OK 200	17711	cd0aab0eecb8b290a5355138c3dd3a69ba87c424432e9011b76608956a988580	2026-11-14
+nasa-recursos/mission-design-lab.html	https://etd.gsfc.nasa.gov/capabilities/integrated-design-center/mission-design-lab/	OK 200	334905	0ce7b40510c0609c77a61e90d559f7e6114defaa2bbef547cb7e2a5199addd5f	2026-11-14
+nasa-recursos/webb-build-it-yourself.html	https://science.nasa.gov/mission/webb/game-build-it-yourself/	OK 200	280025	41b69eb0079d8c1db34c3a66efb714270910a220fe9206e8d3d994b5d2df0e48	2026-11-14
+nasa-recursos/csa-jogos-atividades.html	https://www.asc-csa.gc.ca/eng/youth-educators/digital-games-and-activities.asp	OK 200	28249	e5c49e951985732719ee3abcbf85fbfc9a2200fd48d3346b0e3902704617c7c5	2026-11-14
+nasa-recursos/cml-dataverse-pagina.html	https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=hdl:2014/44299	OK 200	179619	0929e8be8dad0099704d8bd481081d43650953863092ee2982296d01f95bd1ae	2026-11-14
+documentos-apoio/nasa-systems-engineering-handbook-sp-2016-6105-rev2.pdf	https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf	OK 200	3773440	8eeb4887a4dc57a23049da7dd2ed556833cf98e214b240468d987873164ff688	2026-11-14
+documentos-apoio/wright-2018-flight-systems-it-ntrs-20180003229.pdf	https://ntrs.nasa.gov/api/citations/20180003229/downloads/20180003229.pdf	OK 200	1231266	25981ef2ded7d5ee8383ab9669a5628fa6ebb6e6ce48af9e30825407788d41c8	2026-11-14
+documentos-apoio/gao-02-195.html	https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-195/html/GAOREPORTS-GAO-02-195.htm	OK 200	105362	448e474612aa04d6129c3bdedeb4aba48b8dd2147b9344c006716c217d3f8bb7	2026-11-14
+documentos-apoio/gao-01-1015r.html	https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-01-1015R/html/GAOREPORTS-GAO-01-1015R.htm	OK 200	27135	e659b4ed39cc67fc0b412378c0249a06bd67a0c649a0a5c34b01e280742d9b03	2026-11-14
+documentos-apoio/mars-climate-orbiter-nasa.html	https://science.nasa.gov/mission/mars-climate-orbiter/	OK 200	292547	0bcd335f93b7f488d1d8c74e2d811e1291478b3db3c55bb98c60c1c9b4dc8481	2026-11-14
+documentos-apoio/marsbound-guia-completo.pdf	https://d2pn8kiwq2w21t.cloudfront.net/documents/marsbound-fullguide.pdf	OK 200	1162959	2e111143f6362a4aaf9debdc337a7b1a4aa45a192150bcf37ea8b4aceaa314f2	2026-11-14
+documentos-apoio/space-voyagers-pagina.html	https://www.jpl.nasa.gov/edu/learn/project/nasa-space-voyagers-the-game/	OK 200	288609	0a4de6409475920216fdcaec0f3152647cd93d7bd92a2e803e567cd870caa89b	2026-11-14
+documentos-apoio/ranalli-2013-fie-kerbal.pdf	https://jranalli.github.io/preprints/Ranalli2013FIE.pdf	OK 200	301329	90eb8b21ee60179acdd08d1b3adf5a041e77e01f31da1c69316a48717f9cf9a1	2026-11-14
+documentos-apoio/esa-concurrent-engineering-2025.html	https://esa.int/Education/ESA_Academy/116_students_tackle_real-world_space_mission_design_at_ESA_Academy_s_Concurrent_Engineering_Challenge_2025	OK 200	214731	048f28f95b3299d24f6e1ef40a74b9f0257d234d49b020febb65747b21995ef4	2026-11-14
+documentos-apoio/nisar-quick-facts.html	https://www.jpl.nasa.gov/press-kits/nisar/quick-facts/	OK 200	189575	63ef640df60bf918fbce48c2c1ee6dda9872265440643abf13cf7857ab3fd163	2026-11-14
+documentos-apoio/europa-clipper-quick-facts.html	https://www.jpl.nasa.gov/press-kits/europa-clipper/quick-facts/	OK 200	268669	e705b3f77ae59a1c4c46fc32655c0393519ca76c2778877a72df7122069e5173	2026-11-14
+documentos-apoio/lsp-vehicles-performance.html	https://elvperf.ksc.nasa.gov/pages/Vehicles.aspx	OK 200	7305	f5e719ee6deac132f88109b80fe687fc52767173e1795e747bd35db436342d9a	2026-11-14
+documentos-apoio/lsp-req-317-01a.pdf	https://www.nasa.gov/pdf/627972main_LSP-REQ-317_01A.pdf	OK 200	413650	ba4fa4ca03e60bbcab6f9e53365c5c27a9d06b8673a2cdb482096fd38742f9f0	2026-11-14
+documentos-apoio/maven-fact-sheet-rev11.pdf	https://www.nasa.gov/sites/default/files/files/MAVENFactSheetRev11_2013.pdf	OK 200	346556	8e5d847f9e9fec8fade310171e8b6e5124bb96886ba72d6fcab74421bb966e00	2026-11-14

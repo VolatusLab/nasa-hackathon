@@ -18,6 +18,9 @@ seção final com pontos para a decisão.
   perguntas; a ideia é do grupo.
   Os exemplos de solução que aparecem são os citados pelo próprio enunciado.
 - O trecho "Onde está a dificuldade" é leitura de quem resumiu, não informação do evento.
+- **A numeração de 01 a 14 é deste repositório** (ordem alfabética dos títulos em inglês). O PDF de
+  recursos da organização local (`assets/Recursos_Dados_NASA_Ceres_2026.pdf`) numera de outro modo
+  os desafios 04 a 11; o 13 coincide nos dois. Ao falar com a organização, use o título.
 - O evento chama IA de "Super Intelligence (SI)".
 
 ## Comparativo

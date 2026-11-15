@@ -34,6 +34,8 @@ Cada documento em `desafios/` termina com perguntas específicas daquele desafio
 |---|---|---|---|---|
 | | | | | |
 
+A tabela não foi preenchida: as alternativas consideradas não foram registradas (ADR 0004).
+
 ## Desafio escolhido
 
 Decisão registrada no [ADR 0004](adr/0004-desafio-13-jogo-de-projeto-de-missao.md), em 14/11/2026.
@@ -48,8 +50,12 @@ Decisão registrada no [ADR 0004](adr/0004-desafio-13-jogo-de-projeto-de-missao.
   enunciado).
 - **Dados e recursos indicados pelo desafio:** documentos, ferramentas e exemplos, não um conjunto
   de dados. Lista em [`desafios/13-jogo-de-projeto-de-missao.md`](desafios/13-jogo-de-projeto-de-missao.md)
-  (GMAT, Mission Design Lab, Concept Maturity Levels e outros). Qual entra no jogo está em
-  [`pendencias.md`](pendencias.md).
-- **O que vamos entregar:** jogo ou simulação funcional sem modo multijogador na primeira versão (ADR 0006); o
-  O multijogador para até quatro pessoas fica para depois. O restante do escopo é `pendente`.
-- **O que fica de fora:** `pendente`: o grupo define.
+  (GMAT, Mission Design Lab, Concept Maturity Levels e outros). Os recursos da primeira versão
+  estão no [ADR 0005](adr/0005-recursos-nasa-primeira-versao.md).
+- **O que vamos entregar:** jogo interativo, sem modo multijogador na primeira versão
+  ([ADR 0006](adr/0006-multijogador-depois-da-primeira-versao.md)): o multijogador para até quatro
+  pessoas fica para depois. O restante do escopo é `pendente`
+  ([`pendencias.md`](pendencias.md), item 6).
+- **O que fica de fora:** na primeira versão, o multijogador
+  ([ADR 0006](adr/0006-multijogador-depois-da-primeira-versao.md)), o GMAT e o Mission Design Lab
+  ([ADR 0005](adr/0005-recursos-nasa-primeira-versao.md)). O restante é `pendente`: o grupo define.

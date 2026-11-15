@@ -5,38 +5,44 @@ omitido: títulos, parágrafos, itens de lista e textos de interface seguem a or
 
 - **Texto original (inglês):** <https://www.spaceappschallenge.org/2026/challenges/space-mission-design-game/>
 - **Data de leitura:** 14/11/2026, 13:07, a partir da impressão da página em PDF guardada em
-  `assets/NASA Space Apps Challenge.pdf`.
+  `assets/NASA Space Apps Challenge.pdf`. Relido na mesma data a partir do texto copiado da página
+  pelo grupo (`assets/desafio-13-detalhes.txt` e `assets/desafio-13-recursos.txt`): palavra por
+  palavra, o texto é o mesmo dos dois PDFs.
 - **Aviso:** tradução feita com IA (Claude Code) a partir do texto em inglês. Em caso de dúvida,
   vale o original. Registrada em [`../entrega.md`](../entrega.md).
+- **Modalidade:** `could` e `may` foram traduzidos por "pode"; `might`, por "poderia"; `should`,
+  por "deveria". Quase tudo no enunciado é sugestão: a lista de considerações abre com "You may
+  (but are not required to) consider".
 - **Ficha do desafio e decisão do grupo:** [`13-jogo-de-projeto-de-missao.md`](13-jogo-de-projeto-de-missao.md).
 
 ## Elementos da página
 
 Fonte: texto da página colado pelo grupo em 14/11/2026, com os elementos de navegação e a imagem
-de destaque. Esses elementos não aparecem no PDF de detalhes.
+de destaque. O aviso do topo, o menu, a navegação e o texto alternativo da imagem não aparecem no
+PDF de detalhes.
 
 - Aviso no topo: "O NASA Space Apps Challenge está acontecendo agora! 🎉"
 - "Tem alguma dúvida? Participe do Space Apps Connect."
 - Menu: Sobre nós; Prêmios; Explore o Hackathon; Entrar; ou Cadastre-se.
-- Navegação: Início; Desafio NASA Space Apps 2026; Desafios 2026; Space Mission Design Game.
+- Navegação: Início; NASA Space Apps Challenge 2026; Desafios 2026; Space Mission Design Game.
 - Título: Space Mission Design Game (Jogo de Projeto de Missões Espaciais).
 - Imagem de destaque (texto alternativo): "Um astronauta faz uma caminhada espacial acima da
   Terra, segurando um grande painel circular de equipamento, preso à nave."
 - Botão: "Participar do desafio".
 - Abas: Detalhes; Recursos; Equipes.
-- **Evento:** Desafio NASA Space Apps 2026.
+- **Evento:** NASA Space Apps Challenge 2026.
 - **Dificuldade:** Intermediária; Iniciante/Jovem.
 - **Temas:** Jogos.
 
 ## Descrição
 
-Projetar uma missão espacial exige considerar demandas concorrentes, incluindo objetivos da
+Projetar uma missão espacial exige considerar com cuidado demandas concorrentes, incluindo objetivos da
 missão, projeto da nave, instrumentos científicos, veículos lançadores, orçamentos, energia,
 massa, comunicações e restrições orbitais. Para estudantes que raramente têm a chance de
-experimentar uma missão inteira, da concepção à operação, esses *trade-offs* (compensações entre
+fazer experimentos com uma missão inteira, da concepção à operação, esses *trade-offs* (compensações entre
 um aspecto e outro) costumam ficar abstratos. Seu desafio é criar um jogo interativo que permita
 aos participantes projetar, gerenciar e simular uma missão espacial completa, tomando decisões de
-engenharia, gerenciando recursos limitados e avaliando como cada escolha molda o sucesso da
+engenharia, gerenciando recursos limitados e avaliando como cada escolha molda o sucesso de sua
 missão.
 
 ## Contexto
@@ -52,18 +58,18 @@ espaciais bem-sucedidas.
 
 No entanto, o aprendizado de projeto de missões espaciais costuma se limitar a exercícios teóricos,
 porque estudantes e aspirantes a engenheiros raramente têm acesso a um ambiente em que possam
-experimentar uma missão inteira, da concepção à operação. As ferramentas existentes costumam focar
+fazer experimentos com uma missão inteira, da concepção à operação. As ferramentas existentes costumam focar
 em temas isolados, como mecânica orbital, projeto de naves ou lançamentos de foguetes, sem mostrar
 como esses elementos interagem como um sistema completo. Isso deixa uma lacuna entre aprender
 conceitos espaciais isolados e entender como as equipes de missão tomam decisões de engenharia
 integradas.
 
-Um jogo interativo pode ajudar a fechar essa lacuna, ao permitir que os participantes
-experimentem, tomem decisões, enfrentem restrições e aprendam tanto com missões bem-sucedidas
+Um jogo interativo pode ajudar a enfrentar essa lacuna, ao permitir que os participantes
+façam experimentos, tomem decisões, enfrentem restrições e aprendam tanto com missões bem-sucedidas
 quanto com missões malsucedidas. Os jogadores podem projetar missões individualmente ou colaborar
 em equipes de até quatro pessoas, com cada participante contribuindo para a estratégia da missão e
 trabalhando junto com os demais para alcançar o melhor resultado possível. Abordagens possíveis
-incluem planejamento de missão, configuração da nave, seleção de instrumentos, gestão de recursos,
+podem incluir planejamento de missão, configuração da nave, seleção de instrumentos, gestão de recursos,
 seleção de órbita, planejamento de lançamento, comunicações e simulação de missão. Você é
 incentivado a desenvolver alternativas criativas que tornem a experiência envolvente, preservando
 os *trade-offs* fundamentais do projeto de missões espaciais reais.
@@ -82,10 +88,11 @@ missão, projetem uma nave, selecionem instrumentos científicos, escolham o ve�
 útil da missão. Os jogadores se beneficiam ao ver como suas decisões afetam outras partes da
 missão, e ao entender os *trade-offs* envolvidos no projeto de missões espaciais reais.
 
-Uma solução forte pode incluir um jogo ou simulação interativa funcional, com interface clara,
+Uma solução forte poderia incluir um jogo ou simulação interativa funcional, com interface de
+usuário clara,
 sistema de configuração da missão, mecanismos de gestão de recursos, funcionalidade colaborativa
 ou multijogador para até quatro participantes, e um sistema de simulação e avaliação da missão. O
-jogo pode dar retorno sobre o desempenho da missão e premiar decisões de engenharia eficazes, uso
+jogo pode dar retorno sobre o desempenho da missão e premiar decisões de engenharia eficazes, gestão
 eficiente de recursos, colaboração bem-sucedida e o cumprimento dos objetivos da missão.
 Os participantes são incentivados a desenvolver mecânicas de jogo, visualizações, sistemas de
 pontuação e cenários de missão criativos, que tornem a experiência envolvente e, ao mesmo tempo,
@@ -145,7 +152,7 @@ Você pode (mas não é obrigatório) considerar o seguinte:
 
 ### Gestão de recursos
 
-- O jogo deve exibir com clareza os principais recursos disponíveis para a equipe da missão.
+- O jogo deveria exibir com clareza os principais recursos disponíveis para a equipe da missão.
 - Recursos importantes podem incluir:
   - Massa: a massa total da nave e da carga útil.
   - Energia: a energia disponível para operar os sistemas da nave e os instrumentos.
@@ -175,7 +182,7 @@ Você pode (mas não é obrigatório) considerar o seguinte:
 - Considere ensinar aos participantes por que uma decisão específica afeta o desempenho da missão, em
   vez de apenas indicar se a decisão está certa ou errada.
 
-### Você pode considerar acrescentar recursos como:
+### Você pode considerar acrescentar funcionalidades como:
 
 - Vários cenários de missão, com objetivos diferentes
 - Eventos aleatórios ou restrições inesperadas da missão
@@ -188,7 +195,7 @@ Você pode (mas não é obrigatório) considerar o seguinte:
 - A possibilidade de salvar, compartilhar e comparar projetos de missão
 - Missões cooperativas para equipes de até quatro participantes
 - Cenários competitivos, em que equipes diferentes projetam missões para resolver o mesmo objetivo
-- Um modo sandbox, que permite experimentar sem restrições predefinidas
+- Um modo sandbox, que permite aos participantes fazer experimentos sem restrições predefinidas
 - Uma análise pós-missão que explique por que a missão teve sucesso ou fracassou
 
 Para dados e recursos relacionados a este desafio, consulte a aba Recursos, no topo da página.
@@ -227,13 +234,13 @@ análise, a otimização e a navegação de missões espaciais. Desenvolvido por
 envolve a NASA, a indústria privada, a academia e outros colaboradores, o GMAT oferece um ambiente
 abrangente para modelar e analisar trajetórias de naves em uma ampla gama de cenários de missão.
 Entre eles, órbita terrestre baixa, órbitas geoestacionárias e altamente elípticas, missões lunares,
-trajetórias em pontos de libração, transferências interplanetárias e exploração do espaço profundo.
+trajetórias de pontos de libração, transferências interplanetárias e exploração do espaço profundo.
 
 O GMAT permite modelar naves, sistemas de propulsão, trajetórias, manobras e outros componentes da
 missão usando modelos físicos de alta fidelidade. Pode ser usado para propagação de órbita,
 otimização de trajetória, determinação de órbita, simulação de dados de navegação, análise de
 janelas de lançamento, planejamento de manobras e avaliação de diferentes cenários de missão e de
-compensações de engenharia (*trade-offs*). O software também oferece recursos para visualizar
+*trade-offs* de engenharia. O software também oferece funcionalidades para visualizar
 parâmetros da missão e analisar resultados por meio de gráficos, relatórios e outras saídas
 analíticas.
 
@@ -276,7 +283,8 @@ relevantes. Por meio da visualização interativa, o usuário pode mudar de pers
 missão a partir de diferentes pontos de vista, o que facilita uma compreensão mais intuitiva da
 dinâmica orbital e interplanetária.
 
-O Mission Viz é especialmente relevante para o projeto e o ensino de missões espaciais, pois oferece
+O Mission Viz é especialmente relevante para o projeto de missões espaciais e para a educação, pois
+oferece
 um meio visual de comunicar conceitos difíceis de interpretar apenas com dados numéricos. A
 representação de trajetórias, posições das naves, corpos celestes e eventos da missão pode ajudar o
 usuário a entender a relação entre objetivos da missão, mecânica orbital, movimento da nave e
@@ -290,7 +298,7 @@ as características de engenharia de uma missão espacial.
 O jogador começa selecionando os objetivos científicos que o satélite deve investigar. Com base nesses
 objetivos, precisa então escolher comprimentos de onda, instrumentos científicos e sistemas ópticos
 adequados. As escolhas disponíveis são limitadas, e algumas opções não estão disponíveis quando não
-são compatíveis, científica ou tecnologicamente, com os objetivos escolhidos.
+são compatíveis, científica ou tecnologicamente, com os objetivos de missão escolhidos.
 
 O jogo está organizado em três níveis de complexidade crescente. Nos níveis mais altos, o jogador pode
 selecionar vários objetivos científicos e os comprimentos de onda, instrumentos e configurações
@@ -304,9 +312,13 @@ semelhantes, permitindo que o jogador relacione seu projeto virtual a missões e
 
 **CubeSat 101: conceitos básicos e processos para desenvolvedores de CubeSat pela primeira vez
 (*Cubesat 101 - Basic Concepts and Processes for First-Time CubeSat Developers*):** este documento foi
-criado para desenvolvedores de missões CubeSat (principalmente do CSLI, sigla sem expansão confirmada `[VERIFICAR]`). É um guia abrangente, com
-conceitos básicos de cada fase de uma missão CubeSat, desde o ConOps (conceito de operações) até o
-lançamento e a operação.
+criado para desenvolvedores de missões CubeSat (principalmente do CSLI). É um guia poderoso, com
+conceitos básicos de cada fase de uma missão espacial CubeSat, desde o ConOps até o lançamento e a
+operação.
+
+Nota do grupo, fora do texto oficial: CSLI é a *CubeSat Launch Initiative* da NASA, conforme a capa
+do próprio documento. ConOps é a abreviação usual de *concept of operations* (conceito de
+operações).
 
 **Visualize uma missão espacial com realidade virtual (*Visualize a Space Mission Using Virtual
 Reality*):** foi um desafio do NASA Space Apps de 2023, voltado a tornar missões espaciais complexas
@@ -317,7 +329,7 @@ software, exploração espacial e planetas e luas.
 O desafio pedia aos participantes que desenvolvessem uma aplicação interativa de RV capaz de
 visualizar uma missão espacial inteira, incluindo:
 
-- **Conceito da missão (*Mission concept*):** o que a nave deve realizar.
+- **Conceito da missão (*Mission concept*):** o que se pretende que a nave realize.
 - **Trajetórias orbitais (*Orbital trajectories*):** como a nave se desloca no espaço, por exemplo em
   órbita da Terra, transferências Terra–Lua, órbitas planetárias ou trajetórias no espaço profundo.
 - **Cronograma da missão (*Mission timeline*):** a sequência e o momento dos principais eventos e
@@ -347,12 +359,16 @@ Não faz parte do enunciado. São definições gerais dos termos que aparecem no
 leitura; conferir antes de usar em material de entrega.
 
 - **Carga útil (*payload*):** o que a nave leva para cumprir o objetivo da missão, como os
-  instrumentos científicos.
+  instrumentos científicos. Para o veículo lançador, a carga útil é a própria nave: "capacidade de
+  carga útil" é a massa que o foguete consegue levar a uma dada órbita.
+- **Energia (*power*):** o enunciado usa *power*, que em sentido estrito é potência elétrica (o
+  quanto se gera ou consome a cada instante), e o define como "the energy available". A tradução
+  usa "energia" em todo o texto.
 - **Controle de atitude:** sistema que mantém ou muda a orientação da nave no espaço.
 - **Órbita:** trajetória da nave em torno de um corpo celeste. Altitude e inclinação mudam a
   cobertura e as comunicações.
 - **Veículo lançador:** foguete que leva a nave à órbita. Tem limite de carga e de alcance orbital.
 - **Taxa de dados (*data rate*):** quantidade de dados transmitida por unidade de tempo.
-- **Estação de solo:** instalação na Terra que recebe e envia dados para a nave.
+- **Estação de solo:** instalação na Terra que recebe dados da nave e envia comandos a ela.
 - **Vida útil:** tempo planejado de operação da missão.
 - ***Trade-off*:** compensação. Ganhar em um aspecto costuma custar algo em outro.

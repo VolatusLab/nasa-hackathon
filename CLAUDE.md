@@ -27,7 +27,8 @@ Complementa o `C:\dev\CLAUDE.md` do workspace. Em conflito, este arquivo prevale
   texto e nos metadados para código, dados e áudio. Nunca gerar nem alterar marca da NASA.
 - **Nada de menor de 18 anos na submissão:** nome reconhecível, voz, imagem, vídeo ou outra
   representação. Há integrante menor de 18 anos no grupo: o nome dele não entra em slide,
-  página, vídeo, crédito nem em arquivo deste repositório.
+  página, vídeo, crédito nem em arquivo deste repositório. Nos materiais de entrega ele aparece
+  só por iniciais, e as iniciais também não entram em arquivo deste repositório (ADR 0007).
 - **Sem dado pessoal real** em código, teste, exemplo ou commit. Nome de integrante só entra no
   repositório com o acordo dele.
 - **Segredo fora do Git.** `.env*` é ignorado; só `.env.example` é versionado, e completo.
@@ -59,8 +60,13 @@ docs/desafios/      um documento por desafio (14) e o comparativo
 docs/desafio.md     critérios do grupo e desafio escolhido
 docs/entrega.md     requisitos da submissão, fontes de dados, uso de IA
 docs/problematica.md  problemática do desafio escolhido, com fontes e perguntas de decisão
+docs/pitch.md       modelo do pitch de 10 segundos
 docs/pendencias.md  decisões em aberto
 docs/adr/           registros de decisão
+assets/             texto e impressões das páginas oficiais e material do evento local (terceiros; não
+                    vai para a versão pública de entrega)
+data/raw/           arquivos-fonte baixados, fora do Git; só o MANIFEST.tsv é versionado (URL,
+                    hash e data de cada arquivo)
 ```
 
 ## 4. Comandos
@@ -73,7 +79,10 @@ pré-condição de merge.
 
 - 14/11/2026: repositório privado `VolatusLab/nasa-hackathon` (renomeado de `nasa-hackaton`
   nessa data), branch `main`, sem proteção de branch; só documentação.
-- 14/11/2026: desafio 13, Space Mission Design Game, escolhido (ADR 0004), multijogador adiado para depois da primeira versão (ADR 0006); recursos da NASA da primeira versão (ADR 0005); equipe ASTRIX11; stack não definida; sem CI; licença Apache 2.0 (ADR 0003).
+- 14/11/2026: desafio 13, Space Mission Design Game, escolhido (ADR 0004); equipe ASTRIX11;
+  recursos da NASA da primeira versão (ADR 0005); multijogador adiado para depois da primeira
+  versão (ADR 0006); integrante menor só por iniciais na entrega (ADR 0007); stack não definida;
+  sem CI; licença Apache 2.0 (ADR 0003).
 - 14/11/2026: os outros quatro integrantes ainda não foram convidados como colaboradores.
 - Prazo de submissão: 15/11/2026, 23h59, horário do evento local (`docs/entrega.md`).
 
@@ -82,6 +91,14 @@ pré-condição de merge.
 - `www.spaceappschallenge.org` falha com erro de cadeia de certificado (raiz não confiável) no
   `curl` e no WebFetch da máquina do dono do repositório (14/11/2026). Não contorne com `-k`:
   leia a página pelo Chrome, que abre normalmente.
+- `* text=auto` trata como texto um PDF sem nenhum byte nulo, e o checkout no Windows o corrompe
+  (aconteceu com `assets/Recursos_Dados_NASA_Ceres_2026.pdf`, 14/11/2026). Binário novo precisa da
+  extensão marcada como `binary` no `.gitattributes`. Quem clonou no Windows antes dessa correção
+  fica com a cópia corrompida mesmo depois de atualizar: apague o arquivo e rode `git restore` nele.
+  Não rode `git add --renormalize` antes disso, porque ele levaria a cópia corrompida para o commit.
+- Citação de fonte se confere no arquivo baixado (`data/raw/`), não em resumo de busca nem em
+  relato de agente: a revisão de 14/11/2026 achou estudo descrito como medida de aprendizado que
+  media autoeficácia, e número sem fonte lida.
 
 ## 6b. Segurança
 
@@ -95,9 +112,12 @@ pré-condição de merge.
 | Vai mexer em… | Leia antes |
 |---|---|
 | escolha ou escopo do desafio | `docs/desafios/README.md` (comparativo), `docs/desafio.md` (decisão) |
+| escopo, público ou mecânica do jogo | `docs/problematica.md` (perguntas Q1 a Q8), `docs/adr/0005-recursos-nasa-primeira-versao.md`, `docs/adr/0006-multijogador-depois-da-primeira-versao.md` |
+| pitch ou one-liner | `docs/pitch.md` |
+| nome ou crédito de integrante | `docs/adr/0007-integrante-menor-por-iniciais.md` |
 | página de submissão, demo, slides, licença | `docs/entrega.md`, `docs/adr/0003-licenca-apache-2-0.md` |
 | versão de entrega em inglês | `docs/adr/0002-documentacao-em-pt-br-e-entrega-em-ingles.md` |
-| dado da NASA ou de agência parceira | `docs/entrega.md` (registro de fontes) |
+| dado da NASA ou de agência parceira | `docs/entrega.md` (registro de fontes), `docs/desafios/13-recursos.md` (o que cada recurso da aba traz) |
 | fluxo de branch, commit e PR | `CONTRIBUTING.md`, `docs/adr/0001-fluxo-de-git-branch-curta-e-pr.md` |
 | algo ainda não decidido | `docs/pendencias.md` |
 | decisão nova com alternativas | `docs/adr/README.md` (modelo) |

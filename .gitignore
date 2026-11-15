@@ -22,7 +22,8 @@ coverage/
 *.log
 
 # Dados brutos baixados: registre a fonte em docs/entrega.md em vez de versionar
-data/raw/
+data/raw/*
+!data/raw/MANIFEST.tsv
 *.nc
 *.hdf
 *.h5

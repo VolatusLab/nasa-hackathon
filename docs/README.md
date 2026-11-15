@@ -10,8 +10,9 @@
 | critérios do grupo, desafio escolhido e por quê | [`desafio.md`](desafio.md) |
 | o que a submissão exige, fontes de dados, uso de IA | [`entrega.md`](entrega.md) |
 | o enunciado completo do desafio 13, traduzido na íntegra | [`desafios/13-enunciado-completo.md`](desafios/13-enunciado-completo.md) |
+| o que cada um dos nove recursos da aba oficial traz de fato | [`desafios/13-recursos.md`](desafios/13-recursos.md) |
 | o modelo do pitch de 10 segundos, com lacunas e exemplos | [`pitch.md`](pitch.md) |
-| a problemática do desafio 13, com fontes e perguntas de decisão | [`problematica.md`](problematica.md) |
+| a problemática do desafio 13, com fontes, perguntas de decisão e o que o pitch pode afirmar | [`problematica.md`](problematica.md) |
 | o que ainda falta decidir | [`pendencias.md`](pendencias.md) |
 | por que uma decisão foi tomada | [`adr/`](adr/README.md) |
 | o que mudou e quando | [`../CHANGELOG.md`](../CHANGELOG.md) |

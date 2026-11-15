@@ -1,2 +1,35 @@
 # Normaliza fim de linha entre as máquinas do grupo
 * text=auto
+
+# Binários: nunca converter fim de linha. Um PDF sem nenhum byte nulo é tratado como texto pelo
+# `text=auto` e sai corrompido no checkout do Windows (autocrlf). Binário de extensão nova pede
+# linha nova aqui.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.avif binary
+*.webp binary
+*.ico binary
+*.zip binary
+*.gz binary
+*.7z binary
+*.mp4 binary
+*.webm binary
+*.mov binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.m4a binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+*.eot binary
+*.glb binary
+*.wasm binary
+*.pptx binary
+*.docx binary
+*.xlsx binary
