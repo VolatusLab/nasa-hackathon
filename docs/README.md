@@ -13,6 +13,8 @@
 | o que cada um dos nove recursos da aba oficial traz de fato | [`desafios/13-recursos.md`](desafios/13-recursos.md) |
 | o modelo do pitch de 10 segundos, com lacunas e exemplos | [`pitch.md`](pitch.md) |
 | o guia do pitch final de 3 minutos: estrutura, roteiro, demo, ensaio | [`pitch-final.md`](pitch-final.md) |
+| as referências e fontes usadas no jogo, para o slide de referências | [`referencias-slide.md`](referencias-slide.md) |
+| quais fontes da NASA o jogo usa e quais não usa | [`fontes-nasa-uso.md`](fontes-nasa-uso.md) |
 | a problemática do desafio 13, com fontes, perguntas de decisão e o que o pitch pode afirmar | [`problematica.md`](problematica.md) |
 | o que ainda falta decidir | [`pendencias.md`](pendencias.md) |
 | por que uma decisão foi tomada | [`adr/`](adr/README.md) |

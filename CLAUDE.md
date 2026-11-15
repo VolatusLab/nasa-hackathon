@@ -84,6 +84,7 @@ pré-condição de merge.
   recursos da NASA da primeira versão (ADR 0005); multijogador adiado para depois da primeira
   versão (ADR 0006); integrante menor só por iniciais na entrega (ADR 0007); stack não definida;
   sem CI; licença Apache 2.0 (ADR 0003).
+- 15/11/2026: nome do projeto: ASTRIX Mission Studio.
 - 14/11/2026: os outros quatro integrantes ainda não foram convidados como colaboradores.
 - Prazo de submissão: 15/11/2026, 23h59, horário do evento local (`docs/entrega.md`).
 

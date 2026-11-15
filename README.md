@@ -19,6 +19,8 @@ material de entrega do Grupo 2.
 
 ## Equipe
 
+Projeto: **ASTRIX Mission Studio**.
+
 Equipe **ASTRIX11**, Grupo 2, com cinco integrantes. Os nomes dos integrantes maiores de idade
 entram aqui com o acordo de cada um (ver [`docs/pendencias.md`](docs/pendencias.md)).
 

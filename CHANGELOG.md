@@ -5,6 +5,9 @@ fica no documento do assunto.
 
 ## 15/11/2026
 
+- Quadro curto das fontes da NASA usadas e não usadas pelo jogo em `docs/fontes-nasa-uso.md`.
+- Referências do jogo para o slide em `docs/referencias-slide.md`, levantadas do código em `astrix/`, com uma sugestão de texto para o slide. Registra divergências: o registro de fontes de `entrega.md` não traz as fontes do jogo, e o jogo não usa os kits de imprensa do ADR 0005.
+- Nome do projeto definido: ASTRIX Mission Studio. O título do slide da solução no pitch final fica "ASTRIX Mission Studio: projete, lance e entenda a sua missão espacial". A pendência 9 passa a tratar só de quem edita a página do projeto.
 - Guia do pitch final de 3 minutos para a banca local em `docs/pitch-final.md`: cinco estágios com tempos, orçamento de palavras, roteiro com lacunas, demo e plano B, perguntas prováveis e ensaio. Pitch todo em português; duração e formato `[VERIFICAR]` com a organização.
 
 ## 14/11/2026

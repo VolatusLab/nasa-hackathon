@@ -209,6 +209,9 @@ Alimenta o campo "Use of Super Intelligence (SI)".
 | Claude Code (Anthropic) | consolidação da problemática: o que o enunciado pede e o que sugere, e o que o pitch pode afirmar com fonte | `docs/problematica.md` | 14/11/2026 |
 | Claude Code (Anthropic) | revisão geral do repositório, seguida de revisão por pares com agentes: conferência das citações e da tradução contra os arquivos-fonte, correções nos documentos, no `.gitattributes` e no `.gitignore` | raiz do repositório, `docs/` | 14/11/2026 |
 | Claude Code (Anthropic) | redação do guia do pitch final de 3 minutos (estrutura, tempos, lacunas, regras e checklists, sem proposta de solução), a partir das notas da palestra de pitch e dos documentos do repositório | `docs/pitch-final.md`, `docs/entrega.md`, `docs/pitch.md`, `docs/README.md`, `CLAUDE.md`, `CHANGELOG.md` | 15/11/2026 |
+| Claude Code (Anthropic) | sugestão de opções de título para o slide do pitch final, a partir do README do código do jogo; o grupo escolheu uma delas e o nome do projeto, e o assistente registrou a escolha nos documentos | `docs/pitch-final.md`, `docs/pendencias.md`, `README.md`, `CLAUDE.md`, `CHANGELOG.md` | 15/11/2026 |
+| Claude Code (Anthropic) | levantamento das referências, fontes, imagens e bibliotecas do código do jogo (`astrix/`) e redação de uma sugestão de texto para o slide de referências | `docs/referencias-slide.md`, `docs/README.md`, `CHANGELOG.md` | 15/11/2026 |
+| Claude Code (Anthropic) | conferência, no código do jogo, de quais fontes da NASA são usadas e quais não são | `docs/fontes-nasa-uso.md`, `docs/README.md`, `CHANGELOG.md` | 15/11/2026 |
 
 ## Material da entrega
 

@@ -68,7 +68,8 @@ mostrem a demo".
 
 - **Contém:** o nome do projeto e, em uma ou duas frases, o que o jogo permite fazer. Descreva só o
   que **foi entregue**, não o que está planejado.
-- **Lacunas:** `[nome do projeto]` (pendência 9), `[o que o jogador faz]`, `[que decisões ele toma]`.
+- **Nome do projeto:** ASTRIX Mission Studio (decisão do grupo, 15/11/2026).
+- **Lacunas:** `[o que o jogador faz]`, `[que decisões ele toma]`.
 - **Liga ao desafio:** usar os termos do pedido (seção 12.1 de [`problematica.md`](problematica.md))
   só no que o jogo de fato cobre. "Missão completa, do conceito à operação" só vale se o entregue
   cobrir isso (Q1).
@@ -136,7 +137,7 @@ Preencha as lacunas e cronometre cada bloco. O texto fixo é só costura; reescr
 
 **0:40–2:00 · Solução e Prova**
 
-> Por isso criamos o [nome do projeto]: [o que o jogo permite, em uma frase].
+> Por isso criamos o ASTRIX Mission Studio: [o que o jogo permite, em uma frase].
 > Vou mostrar. [Demo: o cenário.] Aqui o jogador decide [decisão]. Vejam o que acontece com
 > [consequência]. Esses números vêm de [recurso da NASA], valores de projeto publicados pela NASA.
 
@@ -162,7 +163,7 @@ traduzir.
 | Slide | Estágio | Conteúdo |
 |---|---|---|
 | 1 | Problema | uma imagem ou frase curta da situação |
-| 2 | Solução | nome do projeto e uma frase |
+| 2 | Solução | título: "ASTRIX Mission Studio: projete, lance e entenda a sua missão espacial" (escolhido pelo grupo em 15/11/2026) |
 | 3 | Prova | a demo ao vivo (ou o vídeo do plano B) |
 | 4 | Prova | onde o dado da NASA entra, com a fonte |
 | 5 | Diferencial | uma frase |
@@ -285,4 +286,4 @@ Dica da palestra: tempo estourado é o erro mais comum e o mais fácil de evitar
 - One-liner de 10 s: [`pitch.md`](pitch.md).
 - Regras da demo, critérios de julgamento, uso de IA e registro de fontes: [`entrega.md`](entrega.md).
 - O que o desafio pede e o que os materiais podem afirmar: [`problematica.md`](problematica.md), seção 12.
-- Decisões em aberto que afetam o pitch: [`pendencias.md`](pendencias.md), itens 6, 7, 9, 10, 13, 14 e 17.
+- Decisões em aberto que afetam o pitch: [`pendencias.md`](pendencias.md), itens 6, 7, 10, 13, 14 e 17.
